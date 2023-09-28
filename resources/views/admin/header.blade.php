@@ -230,7 +230,7 @@
           <li class="treeview">
             <a href="#">
               <i class="fa fa-cog"></i>
-              <span>pengaturan</span>
+              <span>Pengaturan</span>
               <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
                 <span class="label label-primary pull-right"></span>
