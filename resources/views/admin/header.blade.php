@@ -239,6 +239,7 @@
             <ul class="treeview-menu">
               <li><a href="/setting"><i class="fa fa-circle-o"></i> setting web</a></li>
               <li><a href="/admin"><i class="fa fa-circle-o"></i> Admin</a></li>
+              <li><a href="/kontak"><i class="fa fa-circle-o"></i> Kontak</a></li>
             </ul>
           </li>
 
@@ -250,7 +251,7 @@
           <li class="treeview">
             <a href="#">
               <i class="fa fa-newspaper-o"></i>
-              <span>Slide</span>
+              <span>Berita</span>
               <span class="pull-right-container">
               <i class="fa fa-angle-left pull-right"></i>
               <span class="label label-primary pull-right"></span>
