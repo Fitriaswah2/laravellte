@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\BeritaController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -24,3 +24,4 @@ Route::get('setting', function () {
 Route::get('admin', function () {
     return view('admin/admin');
 });
+Route::get('berita', [BeritaController::class, 'index']);
